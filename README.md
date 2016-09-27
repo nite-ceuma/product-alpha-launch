@@ -1,5 +1,7 @@
 # product-alpha-launch
 
-![Alpha Launch](https://drive.google.com/open?id=0B80sKtB_VSqXN044Qmg0aHVWd28)
 
-![Alpha Launch](https://drive.google.com/open?id=0B80sKtB_VSqXSUMyNkU0WHVsVzg)
+## Digite a url e teste o seu produto no ambiente iOS
+![Alpha Launch](![Product Alpha Launch](https://github.com/nite-ceuma/product-alpha-launch/blob/master/ProductAlphaLaunch/Assets.xcassets/github.imageset/AlphaLaunch1.png)
+
+![Product Alpha Launch](https://github.com/nite-ceuma/product-alpha-launch/blob/master/ProductAlphaLaunch/Assets.xcassets/github.imageset/ProductAlphaLaunch.png)
